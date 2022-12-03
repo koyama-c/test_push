@@ -1,5 +1,7 @@
 新規作成
 cat
 apple
-greenbanana
+green
+banana
 branch-e
+branch-d

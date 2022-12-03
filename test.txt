@@ -1,2 +1,4 @@
 new text
 hoge
+test new
+test 追記
